@@ -1,9 +1,12 @@
 #include <iostream>
 #include <string>
-int
-main()
+int main()
 {
+<<<<<<< HEAD
   // Матвей LALAL
+=======
+  // Lalallalalalala--=-=-
+>>>>>>> b444d46 (new  codestyle)
   std::string name;
   std::cout << "Your name";
   std::cin >> name;
