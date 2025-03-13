@@ -3,7 +3,7 @@
 int
 main()
 {
-  // Матвей Захаров
+  // Matvey Zakharov
   std::string name;
   std::cout << "Your name";
   std::cin >> name;
